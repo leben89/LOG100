@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Labo2/Labo2.iml" filepath="$PROJECT_DIR$/Labo2/Labo2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Labo3/Labo3.iml" filepath="$PROJECT_DIR$/Labo3/Labo3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Labo4/Labo4.iml" filepath="$PROJECT_DIR$/Labo4/Labo4.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Labo5/Labo5.iml" filepath="$PROJECT_DIR$/Labo5/Labo5.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Labo6/Labo6.iml" filepath="$PROJECT_DIR$/Labo6/Labo6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labo2-Classes-et-Instances/Labo2.iml" filepath="$PROJECT_DIR$/Labo2-Classes-et-Instances/Labo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labo3-heritage-et-exceptions/Labo3.iml" filepath="$PROJECT_DIR$/Labo3-heritage-et-exceptions/Labo3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labo4/Labo4-interfaces-et-polymorphisme.iml" filepath="$PROJECT_DIR$/Labo4/Labo4-interfaces-et-polymorphisme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labo5/Labo5-Gestion d'écrans d'affichage dans un aéroport.iml" filepath="$PROJECT_DIR$/Labo5/Labo5-Gestion d'écrans d'affichage dans un aéroport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labo6/Labo6-interface-graphique.iml" filepath="$PROJECT_DIR$/Labo6/Labo6-interface-graphique.iml" />
       <module fileurl="file://$PROJECT_DIR$/Laboratoire LOG100.iml" filepath="$PROJECT_DIR$/Laboratoire LOG100.iml" />
-      <module fileurl="file://$PROJECT_DIR$/labo1/labo1.iml" filepath="$PROJECT_DIR$/labo1/labo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labo1- Tableaux/labo1.iml" filepath="$PROJECT_DIR$/labo1- Tableaux/labo1.iml" />
     </modules>
   </component>
 </project>
